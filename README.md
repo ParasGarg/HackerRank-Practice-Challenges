@@ -1,2 +1,2 @@
-# HackerRank-Project-Euler-Solutions
-Solutions of the Project Euler+ competition on HackerRank using Java and other programming languages.
+# HackerRank-Practice-Challenges
+HackerRank's practice challenge solutions for the problems of Algorithms, Data Structures and Programming Languages (like C++, Java, and Python).
